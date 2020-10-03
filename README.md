@@ -18,7 +18,7 @@ FOLLOW THESE SEVEN STEPS BEFORE YOU TRY TO RUN THE CODE
 5)now you have to install any webdriver (eg : chromedriver)
 
       webdriver - WebDriver is an open source tool for automated testing of webapps across many browsers.
-6)install chromedriver from here - https://chromedriver.chromium.org/downloads based on your version of your google chrome
+6)install chromedriver from here - https://chromedriver.chromium.org/downloads based on the version of your google chrome
 
       find the version of your google chrome:
       - go to menu
