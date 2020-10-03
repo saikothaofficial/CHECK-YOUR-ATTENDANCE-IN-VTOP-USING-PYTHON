@@ -27,7 +27,7 @@ FOLLOW THESE SEVEN STEPS BEFORE YOU TRY TO RUN THE CODE
    
    ![image](https://user-images.githubusercontent.com/64541222/94987734-1fab2b00-0586-11eb-94d9-4bfb499026cb.png)
   
-  7)copy the path where your chromedriver.exe is present and it to your path
+  7)copy the path where your chromedriver.exe is installed and it to your path
   
    ![image](https://user-images.githubusercontent.com/64541222/94987944-87ae4100-0587-11eb-806e-7efc4bf96284.png)
    ![image](https://user-images.githubusercontent.com/64541222/94987979-b75d4900-0587-11eb-9c15-58b0b010767a.png)
