@@ -7,4 +7,3 @@ SETUP:
 2)open up your command-prompt/terminal and make sure your pip is working,by typing pip(in windows) or pip3(in mac/linux) and hit enter.
 3)make sure everything is working fine without any errors.
 4)now install selenium using "pip install selenium" command in your cmd
-5)
