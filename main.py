@@ -49,12 +49,12 @@ try:
     table = driver.find_element_by_class_name('table')
     rows = table.find_elements_by_tag_name('tr')
 
-    for i in range(1,11):
+    for i in range(1,len(rows)-1):
         data = rows[i].find_elements_by_tag_name('td')[11].text
         subject = rows[i].find_elements_by_tag_name('td')[2].text
         print(subject,end=' -> ')
         print(data)
-        print('-' * 20)
+        print('-' * 30)
 
 
 
