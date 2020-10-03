@@ -1,6 +1,6 @@
 # CHECK-YOUR-ATTENDANCE-IN-VTOP-USING-PYTHON
 This is a program written in python to check the attendance in VTOP (VIT CHENNAI) 
-click 
+
 SETUP:
 
 FOLLOW THESE SEVEN STEPS BEFORE YOU TRY TO RUN THE CODE
