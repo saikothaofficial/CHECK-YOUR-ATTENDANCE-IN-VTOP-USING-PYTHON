@@ -41,7 +41,7 @@ FOLLOW THESE SEVEN STEPS BEFORE YOU TRY TO RUN THE CODE
   
    ![image](https://user-images.githubusercontent.com/64541222/94988236-58003880-0589-11eb-8b5b-abf08a5626af.png)
     
-    As soon as you press enter the chrome browser will open and the entire process will be automated except the CAPTCHA 
+    As soon as you press enter the chrome browser will open up and the entire process will be automated except the CAPTCHA 
     
     you need to enter the CAPTCHA manually in the cmd as shown below
    
